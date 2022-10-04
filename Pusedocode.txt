@@ -1,0 +1,9 @@
+Initial the References.
+Options values for buttons.
+Display option buttons then Block all the Buttons.
+Generator the words If optionValue matches the button innerText then highlight the button.
+choose a random word then replace every letter with span containing dash and Display each element as span.
+Initial Function Called when page loads user presses new game.
+Initially erase all content and hide letteres and new game button.
+Call to canvasCreator then initial  the frame and draw the man.
+
