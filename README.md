@@ -7,6 +7,7 @@ In the classic children's game of Hangman, a player's objective is to identify a
 ![image](/project-1/assets/images/startpage.png)
 4. end game:
 ![image](/project-1/assets/images/endgame.png)
+
 #Technologies Used:
 
 1. HTML
